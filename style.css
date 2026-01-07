@@ -247,7 +247,7 @@ nav ul a svg {
 .about-me .img-conteiner .line{
     width: calc(70% + 50px);
     height: calc(100% + 50px);
-    border: 1px solid var(--purple);
+    
 
     position: absolute;
     top: -25px;
